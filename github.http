@@ -1,0 +1,3 @@
+### 
+GET https://api.github.com/search/users?q=imjshyun
+Authorization: Bearer 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
